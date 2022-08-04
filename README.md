@@ -1,8 +1,8 @@
-# Android Prework - *Hello World Greetings App*
+# Android Prework - *Greetings App*
 
 Submitted by: **Jenny Stinehour**
 
-**Hello World Greetings App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Greetings App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **3** hours spent in total
 
@@ -22,6 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
+View on [Imgur](https://imgur.com/7abRsh0)
+
 ![Video demo](https://github.com/jennystinehour/codepathPrework/blob/master/demo.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
