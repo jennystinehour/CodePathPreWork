@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 View on [Imgur](https://imgur.com/7abRsh0)
 
-![Video demo](https://github.com/jennystinehour/codepathPrework/blob/master/demo.gif)
+![Video demo](https://imgur.com/7abRsh0.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
