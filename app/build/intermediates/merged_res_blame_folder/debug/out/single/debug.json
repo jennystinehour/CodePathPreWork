@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/layout_activity_hello_world.xml.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/layout/activity_hello_world.xml"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/drawable_cristian_escobar_abkeaojny0s_unsplash.jpg.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/drawable/cristian_escobar_abkeaojny0s_unsplash.jpg"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/menu_activity_hello_world.xml.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/menu/activity_hello_world.xml"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/drawable_lucas_hoang_n_tbayco7n4_unsplash.jpg.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/drawable/lucas_hoang_n_tbayco7n4_unsplash.jpg"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/drawable_cosmoh_love_krdzrxbi_po_unsplash.jpg.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/drawable/cosmoh_love_krdzrxbi_po_unsplash.jpg"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/drawable_jida_li_vixhkyjuis8_unsplash.jpg.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/drawable/jida_li_vixhkyjuis8_unsplash.jpg"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "codepath.demos.helloworlddemo.app-merged_res-6:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "codepath.demos.helloworlddemo.app-main-8:/drawable-mdpi/ic_launcher.png"
+    }
+]

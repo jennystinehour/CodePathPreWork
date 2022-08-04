@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">HelloWorldDemo</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="snoopy_quote">All his life he tried to be a good person. \nMany times, however, he failed. \nFor after all, he was only human. \nHe wasn\'t a dog. \n- Snoopy.</string>
     <string name="menu_settings">Settings</string>
+    <string name="button_text">Wave to Snoopy</string>
 
 </resources>
